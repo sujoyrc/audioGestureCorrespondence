@@ -19,6 +19,7 @@ Sujoy Roychowdhury
 Preeti Rao
 Martin Clayton
 
+[Read the paper](pdf/paper.pdf)
 
               
      
