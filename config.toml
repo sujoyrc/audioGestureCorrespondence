@@ -22,7 +22,7 @@ summaryLength = 30
     weight = 1
 
 [[menu.main]]
-    name = "Supplementary Material""
+    name = "Supplementary Material"
     url = "/suppl/"
     weight = 2
 
