@@ -21,7 +21,7 @@ With the automatic segmentation of the audiovisual time series based on analyses
 
 [Read the paper](pdf/paper.pdf)
 
-![Overall Flowchart](images/flowchart.png)
+<img src="/images/flowchart.png" alt="Overall Flowchart" style="height: 100px; width:100px;"/>
 
               
      
